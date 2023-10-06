@@ -1,0 +1,18 @@
+SMAP
+Client_002dBuy_jsp.java
+JSP
+*S JSP
+*F
++ 0 Client-Buy.jsp
+Client/Client-Buy.jsp
++ 1 Header-Client-Page.jsp
+Client/../Same-Code/Header-Client-Page.jsp
+*L
+1,23:50
+1#1,53:72
+23#0,10:125
+33,3:135,3
+36:144
+37,2:145,3
+39,16:151
+*E

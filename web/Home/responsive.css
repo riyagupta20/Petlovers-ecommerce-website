@@ -1,0 +1,323 @@
+@media only screen and (max-width: 540px){
+	.navbar-brand img{
+		margin-left: 10%;
+		width: 90px;
+		height: 50px;
+	}
+	.left-side-btn a{
+		font-size: 20px;
+		width: 80%;
+	}
+	.slide-bar{
+		width: 100%;
+	}
+	.slide-bar .images .active img{
+		height: inherit;
+	}
+	.main-category{
+		margin: 10% 7%;
+	}
+        .category-title{
+		font-size: 38px;
+	}
+	.category-Both-Image img{
+		width: 45%;
+	}
+	.Best-Heading{
+		font-size: 38px;
+		margin-top: 40%;
+		margin-bottom: 5%;
+	}
+	.Main-Best-Sell{
+		margin: -5% 10%;
+		border: 2px solid black;
+		width: 80%;
+	}
+	.Product1, .Product2, .Product3, .Product4{	
+		align-items: stretch;
+		display: block;
+		margin: 3% 0%;
+		width: 220%;
+		height: 8rem;
+	}
+	.title{
+		margin: -25% 30%;
+		width: 70%;
+	}
+	.Product1 img{
+		width: 22%;
+		margin: 1% 10%;
+	}
+	.Product2 img{
+		width: 30%;
+		margin: 1% 5%;
+	}
+	.Product3 img{
+		width: 31%;
+		margin: 1% 5%;
+	}
+	.Product4 img{
+		width: 27%;
+		margin: 1% 7%;
+	}
+	.Product1 h5, .Product2 h5, .Product3 h5, .Product4 h5{
+		font-size: 22px;
+	}
+	.Product1 p, .Product2 p, .Product3 p, .Product4 p{
+		font-size: 23px;
+	}
+	.footer{
+		padding: 5% 10%;
+	}
+	.footer img{
+		width: 60%;
+	}
+	.footer h2{
+		margin: 0% -20%;
+	}
+	.footer p{
+		margin: 0% -15%;
+	}
+        .Register{
+            width: 200%;
+            margin: 50% 0%;
+            background-color: blue;
+        }
+}
+@media only screen and (min-width: 540px) and (max-width: 600px){
+	.main-category{
+		margin: 10% 5%;
+	}
+	.category-title{
+		margin: 5% -10%;
+		border: 1px solid black;
+		font-size: 45px;
+	}
+	.category-Both-Image img{
+		width: 45%;
+	}
+	.Best-Heading{
+		font-size: 43px;
+		margin-top: 40%;
+	}
+	.Main-Best-Sell{
+		margin: 0% 10%;
+		border: 2px solid red;
+		width: 80%;
+	}
+	.Product1, .Product2, .Product3, .Product4{	
+		align-items: stretch;
+		display: block;
+		margin: 3% 0%;
+		width: 220%;
+		height: 7rem;
+	}
+	.title{
+		margin: -22% 30%;
+		width: 70%;
+	}
+	.Product1 img{
+		width: 17%;
+		margin: 1% 10%;
+	}
+	.Product2 img{
+		width: 23%;
+		margin: 1% 5%;
+	}
+	.Product3 img{
+		width: 24%;
+		margin: 1% 5%;
+	}
+	.Product4 img{
+		width: 20%;
+		margin: 1% 7%;
+	}
+	.Product1 h5, .Product2 h5, .Product3 h5, .Product4 h5{
+		font-size: 23px;
+	}
+	.Product1 p, .Product2 p, .Product3 p, .Product4 p{
+		font-size: 24px;
+	}
+	.footer{
+		padding: 5% 10%;
+	}
+	.footer img{
+		width: 60%;
+	}
+	.footer h2{
+		margin: 0% -20%;
+	}
+	.footer p{
+		margin: 0% -15%;
+	}
+}
+@media only screen and (min-width: 600px) and (max-width: 660px){
+	.main-category{
+		margin: 10% 5%;
+	}
+	.Best-Heading{
+		font-size: 43px;
+		margin-top: 40%;
+	}
+	.Main-Best-Sell{
+		justify-content: space-around;
+		margin: 2% 5%;
+		border: 2px solid blue;
+		width: 90%;
+	}
+	.Product1, .Product2, .Product3, .Product4{	
+		align-items: stretch;
+		margin: 2% 0%;
+		width: 28%;
+		height: 13rem;
+	}
+	.Product1 h5, .Product2 h5, .Product3 h5, .Product4 h5{
+		font-size: 17px;
+	}
+}
+@media only screen and (min-width: 660px) and (max-width: 750px){
+	.main-category{
+		margin: 10% 5%;
+	}
+	.Best-Heading{
+		font-size: 43px;
+		margin-top: 40%;
+	}
+	.Main-Best-Sell{
+		flex-wrap: wrap;
+		justify-content: space-around;
+		margin: 2% 4%;
+		border: 2px solid green;
+		width: 93%;
+	}
+	.Product1, .Product2, .Product3, .Product4{	
+		align-items: stretch;
+		margin: 2% 0%;
+		width: 28%;
+		height: 15rem;
+	}
+	.Product1 h5, .Product2 h5, .Product3 h5, .Product4 h5{
+		font-size: 19px;
+	}
+}
+@media only screen and (min-width: 750px) and (max-width: 790px){
+	.main-category{
+		margin: 10% 5%;
+	}
+	.Best-Heading{
+		font-size: 43px;
+		margin-top: 40%;
+	}
+	.Main-Best-Sell{
+		flex-wrap: wrap;
+		justify-content: space-around;
+		margin: 2% 5%;
+		border: 2px solid orange;
+		width: 90%;
+	}
+	.Product1, .Product2, .Product3, .Product4{	
+		margin: 2% 0%;
+		width: 30%;
+		height: 16.5rem;
+	}
+}
+@media only screen and (min-width: 790px) and (max-width: 880px){
+	.main-category{
+		margin: 10% 5%;
+	}
+	.Best-Heading{
+		font-size: 43px;
+		margin-top: 40%;
+	}
+	.Main-Best-Sell{
+		flex-wrap: nowrap;
+		justify-content: space-around;
+		margin: 2% 3%;
+		border: 2px solid purple;
+		width: 94%;
+	}
+	.Product1, .Product2, .Product3, .Product4{	
+		align-items: stretch;
+		margin: 2% 0%;
+		width: 22%;
+		height: 14rem;
+	}
+	.Product1 h5, .Product2 h5, .Product3 h5, .Product4 h5{
+		font-size: 18px;
+	}
+}
+@media only screen and (min-width: 880px) and (max-width: 950px){
+	.main-category{
+		margin: 10% 5%;
+	}
+	.Best-Heading{
+		font-size: 43px;
+		margin-top: 40%;
+	}
+	.Main-Best-Sell{
+		flex-wrap: wrap;
+		justify-content: space-around;
+		margin: 2% 4%;
+		border: 2px solid crimson;
+		width: 90%;
+	}
+	.Product1, .Product2, .Product3, .Product4{	
+		align-items: stretch;
+		margin: 2% 0%;
+		width: 22%;
+		height: 14.5rem;
+	}
+	.Product1 h5, .Product2 h5, .Product3 h5, .Product4 h5{
+		font-size: 18px;
+	}
+}
+@media only screen and (min-width: 950px) and (max-width: 1100px){
+	.main-category{
+		margin: 10% 5%;
+	}
+	.Best-Heading{
+		font-size: 43px;
+		margin-top: 40%;
+	}
+	.Main-Best-Sell{
+		flex-wrap: nowrap;
+		justify-content: space-around;
+		margin: 2% 4%;
+		border: 2px solid pink;
+		width: 92%;
+	}
+	.Product1, .Product2, .Product3, .Product4{	
+		align-items: stretch;
+		margin: 2% 0%;
+		width: 20%;
+		height: 16rem;
+	}
+	.Product1 h5, .Product2 h5, .Product3 h5, .Product4 h5{
+		font-size: 18px;
+	}
+}
+@media only screen and (min-width: 1100px) and (max-width: 1200px){
+	.main-category{
+		margin: 10% 5%;
+	}
+	.Best-Heading{
+		font-size: 43px;
+		margin-top: 40%;
+	}
+	.Main-Best-Sell{
+		flex-wrap: nowrap;
+		justify-content: space-around;
+		margin: 2% 7%;
+		border: 2px solid purple;
+		width: 85%;
+	}
+	.Product1, .Product2, .Product3, .Product4{	
+		align-items: stretch;
+		margin: 2% 0%;
+		width: 22%;
+		height: 17rem;
+	}
+	.Product1 h5, .Product2 h5, .Product3 h5, .Product4 h5{
+		font-size: 20px;
+	}
+}

@@ -1,0 +1,14 @@
+SMAP
+Client_002dHome_002dPage_jsp.java
+JSP
+*S JSP
+*F
++ 0 Client-Home-Page.jsp
+Client/Client-Home-Page.jsp
++ 1 Header-Client-Page.jsp
+Client/../Same-Code/Header-Client-Page.jsp
+*L
+1,20:49
+1#1,53:68
+20#0,81:121
+*E
